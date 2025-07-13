@@ -47,7 +47,5 @@ DeltaNeutral is a crypto-native hedge fund structured to generate market-neutral
 - **v3**: Expansion into modular chains (ZKsync, Base)
 
 ## 10. Contact
-- Founder Alias: @quantmod
-- Treasury: multisig.eth
-- GitHub: github.com/DeltaNeutralVault
-- Dashboard: streamlit.app/DeltaNeutralPerformance
+- Founder Alias: @lnine8
+
